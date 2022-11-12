@@ -1,0 +1,3 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	R1	/content/GC2022/modulo6-results/desafio2-trimming/R1_fastqc.zip
+FastQC	all_sections	R2	/content/GC2022/modulo6-results/desafio2-trimming/R2_fastqc.zip
